@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BarTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">刷新</string>
+    <string name="first_news">重大喜讯，刘亦菲和宏哥结为情侣，于2025汕头结婚！</string>
+
+</resources>
